@@ -1,2 +1,2 @@
-# Data-Analys-SQL-Projects
+# Data-Analyst
 I'll upload the projects here
